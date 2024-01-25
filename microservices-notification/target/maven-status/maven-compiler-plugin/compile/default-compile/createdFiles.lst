@@ -1,0 +1,8 @@
+com\project\microservicesnotification\events\EventType.class
+com\project\microservicesnotification\utils\JsonUtils.class
+com\project\microservicesnotification\events\Event.class
+com\project\microservicesnotification\events\UserRegisteredEvent.class
+com\project\microservicesnotification\MicroservicesNotificationApplication.class
+com\project\microservicesnotification\controllers\PingController.class
+com\project\microservicesnotification\services\EmailEventService.class
+com\project\microservicesnotification\services\EmailSenderService.class

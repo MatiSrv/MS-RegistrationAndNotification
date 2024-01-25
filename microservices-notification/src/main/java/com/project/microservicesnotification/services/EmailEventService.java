@@ -1,3 +1,4 @@
+
 package com.project.microservicesnotification.services;
 
 import com.project.microservicesnotification.events.UserRegisteredEvent;
