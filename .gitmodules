@@ -1,0 +1,3 @@
+[submodule "microservices-registration"]
+	path = microservices-registration
+	url = https://github.com/MatiSrv/microservices-registration.git
